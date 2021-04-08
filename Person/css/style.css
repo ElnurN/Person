@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+thead th{
+    border: 1.5px solid black;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
+
+th:last-child{
+    color:#ffff;
+    background-color: red;
+}
+
+td{
+text-align: center;
+}
+
+img{
+    width: 5em;
+    height: 5em;
+}
